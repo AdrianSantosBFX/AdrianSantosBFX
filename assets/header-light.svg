@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Adrian Santos</title>
+  <desc id="desc">Software, automation and business systems.</desc>
+  <defs>
+    <linearGradient id="line" x1="50" y1="0" x2="1150" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#087f96"/><stop offset="1" stop-color="#5265d9"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#dce4f2" stroke-opacity=".45"/></pattern>
+  </defs>
+  <rect width="1200" height="270" rx="20" fill="#f5f7fc"/>
+  <rect x="735" y="1" width="464" height="268" rx="20" fill="url(#grid)"/>
+  <path d="M50 51H110" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
+  <text x="50" y="124" fill="#15233b" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700" letter-spacing="-2">Adrian Santos</text>
+  <text x="53" y="166" fill="#50627d" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing=".4">SOFTWARE · AUTOMATION · BUSINESS SYSTEMS</text>
+  <path d="M53 211H680" stroke="#dce4f2"/>
+  <rect x="832" y="51" width="294" height="168" rx="16" fill="#ffffff" stroke="#dce4f2"/>
+  <circle cx="854" cy="72" r="4" fill="#50627d" opacity=".55"/>
+  <circle cx="870" cy="72" r="4" fill="#50627d" opacity=".35"/>
+  <circle cx="886" cy="72" r="4" fill="#50627d" opacity=".2"/>
+  <path d="M832 91H1126" stroke="#dce4f2"/>
+  <path d="M901 122L880 145L901 168M1057 122L1078 145L1057 168" stroke="#087f96" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="930" y="162" fill="#15233b" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" letter-spacing="-2">AS</text>
+  <path d="M815 137H786V198H729" stroke="#5265d9" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="729" cy="198" r="5" fill="#5265d9"/>
+</svg>
